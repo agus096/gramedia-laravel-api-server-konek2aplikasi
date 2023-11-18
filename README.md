@@ -12,4 +12,4 @@ aplikasi/script ini bisa kamu kembangkan lagi menjadi lebih kompleks.
 
 # laravel api client
 untuk api client disini:
-https://github.com/agusbudiman69/laravel-api-client-konek2aplikasi
+https://github.com/agusbudiman69/gramedia-laravel-api-client-konek2aplikasi
